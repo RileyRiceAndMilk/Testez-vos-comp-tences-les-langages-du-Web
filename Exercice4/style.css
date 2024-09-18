@@ -1,0 +1,44 @@
+header {
+    background-color: #FFCC99;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+h1 {
+    font-weight: bold;   
+    text-align: center;      
+}
+
+main {
+    display: flex;
+    background-color: #E6F2FF;
+    margin: 20px; 
+}
+
+
+.container {
+    display: flex; 
+    margin: 20px;  
+}
+
+aside {
+    background-color: #B3D9FF;
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #CCC; 
+}
+
+section {
+    background-color: #E6F2FF;
+    flex: 3; 
+    padding: 10px;
+    margin: 20px;
+}
+
+footer {
+    background-color: #99CC99;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid #CCC; 
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+}

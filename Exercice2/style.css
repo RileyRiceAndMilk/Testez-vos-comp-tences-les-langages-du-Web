@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+    .member-list {
+      list-style: none;
+      padding: 0;
+    }
+    .member-list li {
+      margin-bottom: 20px;
+    }
+    .member-list img {
+      width: 100px;
+      height: auto;
+      display: block;
+    }
+    .member-list h3 {
+      margin: 0;
+    }
+    .member-list h4 {
+      margin: 5px 0 0;
+    }

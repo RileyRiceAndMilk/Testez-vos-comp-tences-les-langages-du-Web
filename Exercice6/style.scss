@@ -1,0 +1,14 @@
+$blue: #0000ff; 
+
+
+ul {
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
+    
+    li {
+        color: $blue; 
+        padding-left: 10px; 
+        margin-bottom: 15px; 
+    }
+}
